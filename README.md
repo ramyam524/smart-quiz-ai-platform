@@ -1,6 +1,6 @@
 
 # 🧠 Smart Quiz AI Platform - AI Proctoring + Voice + Blockchain
-> Built by Ramya M | BTech AI Project
+> Built by Ramya M |  AI Project
 
 ### 🚀 Live Demo: https://github.com/ramyam524/smart-quiz-ai-platform
 
